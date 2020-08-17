@@ -13,6 +13,7 @@ while i< lon:
     sujet[i][5]=("input votre taille\n")
     sujet[i][6]=("input votre poids\n")
     sujet[i][7]=("input votre pay\n")
+    i=i+1
 l=input(" mettez l=0 pour continuer\n")
 while(l==0):
     n=input("donnez le numero du sujet")
